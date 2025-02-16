@@ -1,0 +1,36 @@
+2025-02-12 02:57:19 [INFO]: Login attempt for email: mnavarroc@fi.uba.ar
+2025-02-12 02:57:20 [INFO]: Creating session for user ID: 67ac37e141b211d8adcc571d
+2025-02-12 02:57:20 [INFO]: Signing tokens for user ID: 67ac37e141b211d8adcc571d
+2025-02-12 02:57:20 [INFO]: Login successful for user ID: 67ac37e141b211d8adcc571d
+2025-02-12 03:03:01 [INFO]: Login attempt for email: mnavarroc@fi.uba.ar
+2025-02-12 03:03:01 [INFO]: 2FA required for user ID: 67ac37e141b211d8adcc571d
+2025-02-12 03:03:26 [INFO]: Login attempt for email: mnavarroc@fi.uba.ar
+2025-02-12 03:03:26 [INFO]: Creating session for user ID: 67ac37e141b211d8adcc571d
+2025-02-12 03:03:26 [INFO]: Signing tokens for user ID: 67ac37e141b211d8adcc571d
+2025-02-12 03:03:26 [INFO]: Login successful for user ID: 67ac37e141b211d8adcc571d
+2025-02-12 03:05:15 [INFO]: Login attempt for email: mnavarroc@fi.uba.ar
+2025-02-12 03:05:15 [INFO]: 2FA required for user ID: 67ac37e141b211d8adcc571d
+2025-02-12 03:24:13 [INFO]: Login attempt for email: mnavarroc@fi.uba.ar
+2025-02-12 03:24:13 [INFO]: 2FA required for user ID: 67ac37e141b211d8adcc571d
+2025-02-12 03:24:37 [INFO]: Login attempt for email: mnavarroc@fi.uba.ar
+2025-02-12 03:24:37 [INFO]: 2FA required for user ID: 67ac37e141b211d8adcc571d
+2025-02-12 03:26:04 [INFO]: Login attempt for email: mnavarroc@fi.uba.ar
+2025-02-12 03:26:04 [INFO]: 2FA required for user ID: 67ac37e141b211d8adcc571d
+2025-02-12 03:26:30 [INFO]: Login attempt for email: mnavarroc@fi.uba.ar
+2025-02-12 03:26:30 [INFO]: 2FA required for user ID: 67ac37e141b211d8adcc571d
+2025-02-12 03:31:14 [INFO]: Login attempt for email: mnavarroc@fi.uba.ar
+2025-02-12 03:31:14 [INFO]: 2FA required for user ID: 67ac37e141b211d8adcc571d
+2025-02-12 03:41:35 [INFO]: Login attempt for email: mnavarroc@fi.uba.ar
+2025-02-12 03:41:35 [INFO]: 2FA required for user ID: 67ac37e141b211d8adcc571d
+2025-02-12 03:50:03 [INFO]: Login attempt for email: mnavarroc@fi.uba.ar
+2025-02-12 03:50:03 [INFO]: 2FA required for user ID: 67ac37e141b211d8adcc571d
+2025-02-12 04:01:02 [INFO]: Login attempt for email: mnavarroc@fi.uba.ar
+2025-02-12 04:01:02 [INFO]: 2FA required for user ID: 67ac37e141b211d8adcc571d
+2025-02-12 04:16:31 [INFO]: Login attempt for email: mnavarroc@fi.uba.ar
+2025-02-12 04:16:31 [INFO]: 2FA required for user ID: 67ac37e141b211d8adcc571d
+2025-02-12 04:48:14 [INFO]: Login attempt for email: mnavarroc@fi.uba.ar
+2025-02-12 04:48:14 [INFO]: 2FA required for user ID: 67ac37e141b211d8adcc571d
+2025-02-12 05:11:38 [INFO]: Login attempt for email: mnavarroc@fi.uba.ar
+2025-02-12 05:11:38 [INFO]: 2FA required for user ID: 67ac37e141b211d8adcc571d
+2025-02-12 05:12:04 [INFO]: Login attempt for email: mnavarroc@fi.uba.ar
+2025-02-12 05:12:05 [INFO]: 2FA required for user ID: 67ac37e141b211d8adcc571d
